@@ -1,3 +1,6 @@
+### learning resources
+- https://www.interviewbit.com/spring-security-interview-questions/
+
 ### Basic Security Filters
 - DefaultLoginPageGeneratingFilter
 - UserNamePasswordAuthenticationFilter
